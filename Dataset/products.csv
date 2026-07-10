@@ -1,0 +1,601 @@
+Product_ID,Product_Name,Brand,Category_ID,Unit_Cost,Selling_Price,Profit_Margin_Percent,Launch_Date
+P0001,Aashirvaad Atta 5kg,Aashirvaad,CAT01,304.57,318.92,4.71,2018-12-18
+P0002,Tata Atta 10kg,Tata,CAT01,569.51,639.84,12.35,2018-12-22
+P0003,Tata Basmati Rice 5kg,Tata,CAT01,172.43,187.9,8.97,2022-12-20
+P0004,Tata Sona Masoori Rice 10kg,Tata,CAT01,491.87,550.11,11.84,2021-11-03
+P0005,Fortune Toor Dal 1kg,Fortune,CAT01,295.34,326.26,10.47,2022-02-24
+P0006,Tata Moong Dal 1kg,Tata,CAT01,521.73,568.16,8.9,2024-01-05
+P0007,Aashirvaad Chana Dal 1kg,Aashirvaad,CAT01,538.61,597.91,11.01,2018-08-16
+P0008,Aashirvaad Sunflower Oil 1L,Aashirvaad,CAT01,541.84,593.42,9.52,2019-07-08
+P0009,Tata Mustard Oil 1L,Tata,CAT01,286.66,327.77,14.34,2020-08-04
+P0010,ITC Sugar 1kg,ITC,CAT01,104.3,119.92,14.98,2018-02-16
+P0011,ITC Salt 1kg,ITC,CAT01,30.09,34.28,13.92,2018-05-30
+P0012,ITC Besan 1kg,ITC,CAT01,62.65,92.09,46.99,2020-05-18
+P0013,Patanjali Poha 500g,Patanjali,CAT01,125.44,136.01,8.43,2023-07-17
+P0014,Patanjali Rava/Suji 1kg,Patanjali,CAT01,485.03,530.28,9.33,2018-03-15
+P0015,Fortune Refined Oil 5L,Fortune,CAT01,439.0,489.27,11.45,2020-03-12
+P0016,Fortune Atta 5kg - Variant 2,Fortune,CAT01,162.3,186.4,14.85,2020-05-12
+P0017,ITC Atta 10kg - Variant 2,ITC,CAT01,195.45,221.31,13.23,2021-04-08
+P0018,Tata Basmati Rice 5kg - Variant 2,Tata,CAT01,154.61,176.13,13.92,2021-01-10
+P0019,Aashirvaad Sona Masoori Rice 10kg - Variant 2,Aashirvaad,CAT01,418.44,474.8,13.47,2022-12-16
+P0020,Tata Toor Dal 1kg - Variant 2,Tata,CAT01,94.74,105.26,11.1,2022-09-10
+P0021,Aashirvaad Moong Dal 1kg - Variant 2,Aashirvaad,CAT01,30.89,34.14,10.52,2023-09-10
+P0022,Aashirvaad Chana Dal 1kg - Variant 2,Aashirvaad,CAT01,154.15,170.34,10.5,2019-01-30
+P0023,Fortune Sunflower Oil 1L - Variant 2,Fortune,CAT01,104.25,116.23,11.49,2022-10-08
+P0024,Fortune Mustard Oil 1L - Variant 2,Fortune,CAT01,32.8,35.69,8.81,2019-09-27
+P0025,Aashirvaad Sugar 1kg - Variant 2,Aashirvaad,CAT01,389.64,430.4,10.46,2020-06-07
+P0026,ITC Salt 1kg - Variant 2,ITC,CAT01,548.46,596.78,8.81,2020-12-17
+P0027,Patanjali Besan 1kg - Variant 2,Patanjali,CAT01,545.28,615.62,12.9,2025-03-21
+P0028,ITC Poha 500g - Variant 2,ITC,CAT01,94.92,105.6,11.25,2023-02-14
+P0029,Patanjali Rava/Suji 1kg - Variant 2,Patanjali,CAT01,484.73,549.3,13.32,2023-05-21
+P0030,Fortune Refined Oil 5L - Variant 2,Fortune,CAT01,91.36,101.16,10.73,2019-11-13
+P0031,Tata Atta 5kg - Variant 3,Tata,CAT01,365.48,400.86,9.68,2022-07-17
+P0032,ITC Atta 10kg - Variant 3,ITC,CAT01,181.35,206.0,13.59,2023-07-04
+P0033,Tata Basmati Rice 5kg - Variant 3,Tata,CAT01,315.84,346.79,9.8,2023-01-17
+P0034,Patanjali Sona Masoori Rice 10kg - Variant 3,Patanjali,CAT01,333.98,361.37,8.2,2020-06-08
+P0035,ITC Toor Dal 1kg - Variant 3,ITC,CAT01,385.81,441.02,14.31,2023-11-16
+P0036,Fortune Moong Dal 1kg - Variant 3,Fortune,CAT01,210.65,238.56,13.25,2022-10-31
+P0037,Patanjali Chana Dal 1kg - Variant 3,Patanjali,CAT01,417.34,472.47,13.21,2024-07-26
+P0038,Aashirvaad Sunflower Oil 1L - Variant 3,Aashirvaad,CAT01,343.82,372.84,8.44,2021-05-10
+P0039,Fortune Mustard Oil 1L - Variant 3,Fortune,CAT01,483.86,539.36,11.47,2023-04-16
+P0040,Tata Sugar 1kg - Variant 3,Tata,CAT01,229.05,248.84,8.64,2024-07-24
+P0041,Fortune Salt 1kg - Variant 3,Fortune,CAT01,512.7,558.64,8.96,2021-03-18
+P0042,Fortune Besan 1kg - Variant 3,Fortune,CAT01,304.65,331.89,8.94,2021-12-16
+P0043,Fortune Poha 500g - Variant 3,Fortune,CAT01,16.77,18.19,8.47,2019-04-14
+P0044,Tata Rava/Suji 1kg - Variant 3,Tata,CAT01,594.65,664.52,11.75,2018-05-02
+P0045,Aashirvaad Refined Oil 5L - Variant 3,Aashirvaad,CAT01,431.35,482.21,11.79,2019-07-22
+P0046,Aashirvaad Atta 5kg - Variant 4,Aashirvaad,CAT01,462.08,513.14,11.05,2024-06-30
+P0047,Tata Atta 10kg - Variant 4,Tata,CAT01,56.96,62.15,9.11,2025-04-10
+P0048,Patanjali Basmati Rice 5kg - Variant 4,Patanjali,CAT01,41.56,45.52,9.54,2018-07-15
+P0049,Patanjali Sona Masoori Rice 10kg - Variant 4,Patanjali,CAT01,27.23,29.5,8.32,2022-07-28
+P0050,Aashirvaad Toor Dal 1kg - Variant 4,Aashirvaad,CAT01,225.41,257.44,14.21,2024-11-09
+P0051,ITC Moong Dal 1kg - Variant 4,ITC,CAT01,225.55,246.03,9.08,2023-08-05
+P0052,Aashirvaad Chana Dal 1kg - Variant 4,Aashirvaad,CAT01,487.43,557.67,14.41,2022-12-21
+P0053,Fortune Sunflower Oil 1L - Variant 4,Fortune,CAT01,523.52,600.84,14.77,2024-10-06
+P0054,Aashirvaad Mustard Oil 1L - Variant 4,Aashirvaad,CAT01,118.05,129.9,10.04,2020-10-18
+P0055,Fortune Sugar 1kg - Variant 4,Fortune,CAT01,306.27,340.39,11.14,2023-03-08
+P0056,Fortune Salt 1kg - Variant 4,Fortune,CAT01,104.23,119.41,14.56,2021-08-26
+P0057,Tata Besan 1kg - Variant 4,Tata,CAT01,360.52,399.42,10.79,2019-04-06
+P0058,Tata Poha 500g - Variant 4,Tata,CAT01,354.07,395.25,11.63,2020-12-06
+P0059,Fortune Rava/Suji 1kg - Variant 4,Fortune,CAT01,481.82,536.46,11.34,2025-01-06
+P0060,Nestle Toned Milk 1L,Nestle,CAT02,29.56,34.4,16.39,2020-12-29
+P0061,Nestle Full Cream Milk 1L,Nestle,CAT02,185.11,210.08,13.49,2021-06-30
+P0062,Amul Curd 400g,Amul,CAT02,22.61,25.94,14.74,2019-03-22
+P0063,Amul Paneer 200g,Amul,CAT02,200.81,287.94,43.39,2021-02-12
+P0064,Nestle Butter 100g,Nestle,CAT02,106.19,119.68,12.7,2018-12-16
+P0065,Amul Cheese Slices 200g,Amul,CAT02,62.36,63.78,2.27,2020-09-27
+P0066,Nestle Ghee 1L,Nestle,CAT02,147.47,169.58,14.99,2018-05-20
+P0067,Nestle Buttermilk 200ml,Nestle,CAT02,170.95,194.1,13.54,2020-08-28
+P0068,Nestle Lassi 200ml,Nestle,CAT02,236.84,276.08,16.57,2023-08-04
+P0069,Amul Cream 200ml,Amul,CAT02,65.68,74.42,13.3,2018-02-13
+P0070,Nestle Toned Milk 1L - Variant 2,Nestle,CAT02,195.03,215.63,10.56,2021-11-06
+P0071,Amul Full Cream Milk 1L - Variant 2,Amul,CAT02,186.12,214.89,15.46,2019-11-12
+P0072,Amul Curd 400g - Variant 2,Amul,CAT02,83.19,91.72,10.25,2024-03-16
+P0073,Amul Paneer 200g - Variant 2,Amul,CAT02,48.12,56.68,17.79,2024-01-28
+P0074,Amul Butter 100g - Variant 2,Amul,CAT02,90.89,102.73,13.03,2022-05-21
+P0075,Nestle Cheese Slices 200g - Variant 2,Nestle,CAT02,71.51,83.87,17.28,2018-03-11
+P0076,Amul Ghee 1L - Variant 2,Amul,CAT02,223.07,250.66,12.37,2023-02-03
+P0077,Amul Buttermilk 200ml - Variant 2,Amul,CAT02,161.17,179.59,11.43,2023-12-09
+P0078,Amul Lassi 200ml - Variant 2,Amul,CAT02,226.14,262.87,16.24,2023-04-19
+P0079,Nestle Cream 200ml - Variant 2,Nestle,CAT02,179.97,206.26,14.61,2024-09-03
+P0080,Amul Toned Milk 1L - Variant 3,Amul,CAT02,152.35,173.47,13.86,2020-07-28
+P0081,Nestle Full Cream Milk 1L - Variant 3,Nestle,CAT02,109.12,123.28,12.98,2024-05-08
+P0082,Nestle Curd 400g - Variant 3,Nestle,CAT02,41.33,46.96,13.61,2023-12-31
+P0083,Nestle Paneer 200g - Variant 3,Nestle,CAT02,55.11,63.34,14.94,2024-07-30
+P0084,Amul Butter 100g - Variant 3,Amul,CAT02,147.3,173.36,17.69,2024-03-31
+P0085,Nestle Cheese Slices 200g - Variant 3,Nestle,CAT02,167.77,192.7,14.86,2020-06-04
+P0086,Amul Ghee 1L - Variant 3,Amul,CAT02,105.62,123.71,17.13,2021-10-11
+P0087,Nestle Buttermilk 200ml - Variant 3,Nestle,CAT02,78.38,92.2,17.63,2019-12-09
+P0088,Amul Lassi 200ml - Variant 3,Amul,CAT02,245.52,273.29,11.31,2022-06-16
+P0089,Nestle Cream 200ml - Variant 3,Nestle,CAT02,183.04,211.92,15.78,2022-04-04
+P0090,Amul Toned Milk 1L - Variant 4,Amul,CAT02,24.91,28.75,15.41,2019-09-18
+P0091,Nestle Full Cream Milk 1L - Variant 4,Nestle,CAT02,208.13,245.36,17.89,2019-12-24
+P0092,Amul Curd 400g - Variant 4,Amul,CAT02,57.97,64.83,11.83,2019-03-12
+P0093,Amul Paneer 200g - Variant 4,Amul,CAT02,24.25,28.49,17.47,2019-02-17
+P0094,Amul Butter 100g - Variant 4,Amul,CAT02,190.9,222.3,16.45,2021-05-29
+P0095,Amul Cheese Slices 200g - Variant 4,Amul,CAT02,85.66,95.75,11.78,2018-09-24
+P0096,Nestle Ghee 1L - Variant 4,Nestle,CAT02,96.54,108.71,12.61,2022-04-23
+P0097,Amul Buttermilk 200ml - Variant 4,Amul,CAT02,33.14,38.75,16.92,2018-01-15
+P0098,Pepsi Cold Drink 750ml,Pepsi,CAT03,138.62,170.89,23.28,2025-03-06
+P0099,Fanta Cold Drink 1.25L,Fanta,CAT03,480.38,563.15,17.23,2023-02-08
+P0100,Real Packaged Juice 1L,Real,CAT03,588.77,725.07,23.15,2020-02-27
+P0101,Bisleri Mineral Water 1L,Bisleri,CAT03,205.79,254.81,23.82,2024-10-05
+P0102,Bisleri Soda Water 600ml,Bisleri,CAT03,360.25,436.77,21.24,2021-12-21
+P0103,Coca-Cola Energy Drink 250ml,Coca-Cola,CAT03,553.76,670.22,21.03,2022-10-16
+P0104,Wagh Bakri Tea Powder 250g,Wagh Bakri,CAT03,92.76,114.15,23.06,2024-01-27
+P0105,Wagh Bakri Tea Powder 500g,Wagh Bakri,CAT03,378.35,463.93,22.62,2020-05-28
+P0106,Tata Coffee Grand Instant Coffee 50g,Tata Coffee Grand,CAT03,61.92,71.78,15.92,2025-04-10
+P0107,Wagh Bakri Green Tea 100g,Wagh Bakri,CAT03,192.69,223.46,15.97,2023-02-22
+P0108,Coca-Cola Lemon Drink 600ml,Coca-Cola,CAT03,375.41,440.96,17.46,2021-07-05
+P0109,Coca-Cola Cold Drink 750ml - Variant 2,Coca-Cola,CAT03,215.89,266.45,23.42,2018-10-21
+P0110,Thums Up Cold Drink 1.25L - Variant 2,Thums Up,CAT03,215.37,264.02,22.59,2024-12-11
+P0111,Real Packaged Juice 1L - Variant 2,Real,CAT03,116.53,141.79,21.68,2019-10-12
+P0112,Bisleri Mineral Water 1L - Variant 2,Bisleri,CAT03,549.43,680.63,23.88,2023-08-22
+P0113,Bisleri Soda Water 600ml - Variant 2,Bisleri,CAT03,243.57,286.95,17.81,2024-05-13
+P0114,Pepsi Energy Drink 250ml - Variant 2,Pepsi,CAT03,165.95,199.74,20.36,2018-02-21
+P0115,Red Label Tea Powder 250g - Variant 2,Red Label,CAT03,565.26,682.44,20.73,2024-02-18
+P0116,Tata Tea Tea Powder 500g - Variant 2,Tata Tea,CAT03,46.52,56.68,21.84,2018-08-11
+P0117,Nescafe Instant Coffee 50g - Variant 2,Nescafe,CAT03,14.1,16.93,20.05,2021-06-24
+P0118,Red Label Green Tea 100g - Variant 2,Red Label,CAT03,190.92,225.5,18.11,2019-12-16
+P0119,Pepsi Lemon Drink 600ml - Variant 2,Pepsi,CAT03,368.03,454.59,23.52,2021-04-28
+P0120,Thums Up Cold Drink 750ml - Variant 3,Thums Up,CAT03,140.14,163.21,16.46,2019-06-09
+P0121,Fanta Cold Drink 1.25L - Variant 3,Fanta,CAT03,292.93,353.95,20.83,2019-09-04
+P0122,Tropicana Packaged Juice 1L - Variant 3,Tropicana,CAT03,165.22,192.55,16.54,2018-09-17
+P0123,Bisleri Mineral Water 1L - Variant 3,Bisleri,CAT03,129.91,149.81,15.32,2023-05-15
+P0124,Bisleri Soda Water 600ml - Variant 3,Bisleri,CAT03,412.64,477.67,15.76,2020-09-22
+P0125,Pepsi Energy Drink 250ml - Variant 3,Pepsi,CAT03,314.85,387.61,23.11,2022-04-04
+P0126,Wagh Bakri Tea Powder 250g - Variant 3,Wagh Bakri,CAT03,343.53,425.36,23.82,2022-03-28
+P0127,Tata Tea Tea Powder 500g - Variant 3,Tata Tea,CAT03,421.48,489.76,16.2,2023-09-09
+P0128,Nescafe Instant Coffee 50g - Variant 3,Nescafe,CAT03,102.21,117.62,15.08,2020-09-09
+P0129,Red Label Green Tea 100g - Variant 3,Red Label,CAT03,179.94,213.7,18.76,2023-08-21
+P0130,Coca-Cola Lemon Drink 600ml - Variant 3,Coca-Cola,CAT03,469.51,579.38,23.4,2024-04-15
+P0131,Thums Up Cold Drink 750ml - Variant 4,Thums Up,CAT03,326.42,378.61,15.99,2018-12-13
+P0132,Fanta Cold Drink 1.25L - Variant 4,Fanta,CAT03,216.2,262.47,21.4,2020-08-07
+P0133,Tropicana Packaged Juice 1L - Variant 4,Tropicana,CAT03,176.55,216.49,22.62,2018-11-05
+P0134,Kinley Mineral Water 1L - Variant 4,Kinley,CAT03,525.48,614.6,16.96,2024-07-11
+P0135,Kinley Soda Water 600ml - Variant 4,Kinley,CAT03,573.62,678.54,18.29,2020-04-17
+P0136,Coca-Cola Energy Drink 250ml - Variant 4,Coca-Cola,CAT03,520.93,614.49,17.96,2019-08-08
+P0137,Tata Tea Tea Powder 250g - Variant 4,Tata Tea,CAT03,383.47,450.35,17.44,2021-05-21
+P0138,Tata Tea Tea Powder 500g - Variant 4,Tata Tea,CAT03,29.52,34.64,17.36,2024-05-08
+P0139,Nescafe Instant Coffee 50g - Variant 4,Nescafe,CAT03,242.91,297.95,22.66,2020-08-18
+P0140,ITC Potato Chips 52g,ITC,CAT04,486.74,589.05,21.02,2020-12-03
+P0141,ITC Namkeen Mix 200g,ITC,CAT04,266.74,316.46,18.64,2022-08-03
+P0142,Britannia Biscuits Pack 200g,Britannia,CAT04,140.63,169.28,20.37,2023-12-29
+P0143,Britannia Cream Biscuits 150g,Britannia,CAT04,327.8,387.43,18.19,2024-02-06
+P0144,Parle Popcorn 80g,Parle,CAT04,438.89,510.39,16.29,2023-01-17
+P0145,Parle Nachos 150g,Parle,CAT04,326.82,405.45,24.06,2019-07-03
+P0146,Britannia Banana Chips 200g,Britannia,CAT04,450.56,548.11,21.65,2024-10-24
+P0147,Britannia Bhujia 200g,Britannia,CAT04,80.03,93.81,17.22,2020-12-07
+P0148,Parle Chocolate Bar 50g,Parle,CAT04,384.82,468.71,21.8,2019-11-04
+P0149,Parle Energy Bar 40g,Parle,CAT04,239.45,279.65,16.79,2018-09-18
+P0150,ITC Potato Chips 52g - Variant 2,ITC,CAT04,71.51,85.74,19.9,2018-07-01
+P0151,Britannia Namkeen Mix 200g - Variant 2,Britannia,CAT04,147.64,175.5,18.87,2023-07-24
+P0152,Britannia Biscuits Pack 200g - Variant 2,Britannia,CAT04,354.31,440.23,24.25,2021-05-13
+P0153,Britannia Cream Biscuits 150g - Variant 2,Britannia,CAT04,351.22,409.21,16.51,2022-04-09
+P0154,Britannia Popcorn 80g - Variant 2,Britannia,CAT04,327.79,410.07,25.1,2022-02-04
+P0155,ITC Nachos 150g - Variant 2,ITC,CAT04,400.68,487.91,21.77,2019-09-28
+P0156,ITC Banana Chips 200g - Variant 2,ITC,CAT04,208.73,255.53,22.42,2022-02-15
+P0157,Britannia Bhujia 200g - Variant 2,Britannia,CAT04,135.81,165.25,21.68,2021-05-24
+P0158,Britannia Chocolate Bar 50g - Variant 2,Britannia,CAT04,46.59,56.83,21.97,2020-03-23
+P0159,Britannia Energy Bar 40g - Variant 2,Britannia,CAT04,276.53,321.69,16.33,2021-05-10
+P0160,Parle Potato Chips 52g - Variant 3,Parle,CAT04,141.1,172.09,21.96,2022-07-28
+P0161,ITC Namkeen Mix 200g - Variant 3,ITC,CAT04,355.93,434.16,21.98,2021-07-22
+P0162,Parle Biscuits Pack 200g - Variant 3,Parle,CAT04,159.48,190.21,19.27,2018-09-08
+P0163,ITC Cream Biscuits 150g - Variant 3,ITC,CAT04,68.02,82.96,21.97,2020-05-01
+P0164,Parle Popcorn 80g - Variant 3,Parle,CAT04,377.63,444.09,17.6,2023-02-28
+P0165,Parle Nachos 150g - Variant 3,Parle,CAT04,410.47,494.04,20.36,2018-09-06
+P0166,Parle Banana Chips 200g - Variant 3,Parle,CAT04,341.81,396.7,16.06,2018-12-05
+P0167,Parle Bhujia 200g - Variant 3,Parle,CAT04,327.04,396.63,21.28,2020-10-19
+P0168,ITC Chocolate Bar 50g - Variant 3,ITC,CAT04,250.14,309.85,23.87,2020-03-25
+P0169,ITC Energy Bar 40g - Variant 3,ITC,CAT04,392.29,471.02,20.07,2018-02-02
+P0170,Britannia Potato Chips 52g - Variant 4,Britannia,CAT04,190.78,226.44,18.69,2021-05-02
+P0171,Parle Namkeen Mix 200g - Variant 4,Parle,CAT04,565.76,683.32,20.78,2020-12-12
+P0172,Parle Biscuits Pack 200g - Variant 4,Parle,CAT04,521.09,639.74,22.77,2024-11-15
+P0173,ITC Cream Biscuits 150g - Variant 4,ITC,CAT04,262.55,308.47,17.49,2023-02-05
+P0174,Britannia Popcorn 80g - Variant 4,Britannia,CAT04,199.39,248.78,24.77,2025-04-03
+P0175,Parle Nachos 150g - Variant 4,Parle,CAT04,37.83,45.11,19.25,2025-06-18
+P0176,Britannia Banana Chips 200g - Variant 4,Britannia,CAT04,89.34,103.7,16.07,2023-01-10
+P0177,Britannia Bhujia 200g - Variant 4,Britannia,CAT04,262.81,324.86,23.61,2024-01-13
+P0178,Parle Chocolate Bar 50g - Variant 4,Parle,CAT04,169.03,201.64,19.29,2024-07-21
+P0179,Britannia Energy Bar 40g - Variant 4,Britannia,CAT04,24.12,29.3,21.46,2022-02-16
+P0180,ITC Potato Chips 52g - Variant 5,ITC,CAT04,132.14,156.84,18.69,2018-12-17
+P0181,ITC Namkeen Mix 200g - Variant 5,ITC,CAT04,447.33,549.41,22.82,2023-08-24
+P0182,Britannia Biscuits Pack 200g - Variant 5,Britannia,CAT04,519.61,624.0,20.09,2019-05-08
+P0183,ITC Cream Biscuits 150g - Variant 5,ITC,CAT04,69.25,82.79,19.55,2020-09-14
+P0184,ITC Popcorn 80g - Variant 5,ITC,CAT04,82.67,99.08,19.85,2023-02-11
+P0185,Parle Nachos 150g - Variant 5,Parle,CAT04,422.22,527.02,24.82,2019-09-18
+P0186,Britannia Banana Chips 200g - Variant 5,Britannia,CAT04,212.96,259.24,21.73,2021-08-28
+P0187,ITC White Bread 400g,ITC,CAT05,237.1,265.91,12.15,2021-02-14
+P0188,Britannia Brown Bread 400g,Britannia,CAT05,193.97,220.08,13.46,2024-03-24
+P0189,Britannia Burger Buns 4pc,Britannia,CAT05,80.5,96.16,19.45,2021-02-22
+P0190,ITC Pav 6pc,ITC,CAT05,233.71,265.8,13.73,2022-02-13
+P0191,Britannia Rusk 200g,Britannia,CAT05,177.79,208.87,17.48,2023-06-12
+P0192,ITC Cake Slice 150g,ITC,CAT05,149.4,175.37,17.38,2019-06-25
+P0193,Britannia Cookies 100g,Britannia,CAT05,204.8,241.19,17.77,2021-06-08
+P0194,ITC Muffin Pack 4pc,ITC,CAT05,38.73,43.75,12.97,2020-02-19
+P0195,ITC Bun Toast 200g,ITC,CAT05,66.79,78.91,18.15,2020-06-22
+P0196,Britannia White Bread 400g - Variant 2,Britannia,CAT05,178.68,205.23,14.86,2019-11-01
+P0197,ITC Brown Bread 400g - Variant 2,ITC,CAT05,41.36,48.81,18.01,2023-02-01
+P0198,Britannia Burger Buns 4pc - Variant 2,Britannia,CAT05,48.15,53.99,12.12,2024-05-02
+P0199,ITC Pav 6pc - Variant 2,ITC,CAT05,120.17,124.17,3.33,2024-09-30
+P0200,ITC Rusk 200g - Variant 2,ITC,CAT05,73.69,85.26,15.7,2024-03-07
+P0201,ITC Cake Slice 150g - Variant 2,ITC,CAT05,159.73,191.61,19.96,2021-01-11
+P0202,ITC Cookies 100g - Variant 2,ITC,CAT05,112.17,127.93,14.05,2021-02-07
+P0203,Britannia Muffin Pack 4pc - Variant 2,Britannia,CAT05,136.31,159.61,17.09,2020-12-09
+P0204,Britannia Bun Toast 200g - Variant 2,Britannia,CAT05,241.14,273.4,13.38,2020-11-13
+P0205,Britannia White Bread 400g - Variant 3,Britannia,CAT05,54.85,63.12,15.08,2019-12-29
+P0206,ITC Brown Bread 400g - Variant 3,ITC,CAT05,86.8,98.14,13.06,2024-05-18
+P0207,ITC Burger Buns 4pc - Variant 3,ITC,CAT05,102.96,121.72,18.22,2021-03-19
+P0208,Britannia Pav 6pc - Variant 3,Britannia,CAT05,80.85,92.82,14.8,2024-02-08
+P0209,Britannia Rusk 200g - Variant 3,Britannia,CAT05,63.14,72.04,14.1,2020-01-24
+P0210,ITC Cake Slice 150g - Variant 3,ITC,CAT05,100.25,118.07,17.78,2018-11-08
+P0211,ITC Cookies 100g - Variant 3,ITC,CAT05,74.6,88.21,18.25,2023-06-12
+P0212,ITC Muffin Pack 4pc - Variant 3,ITC,CAT05,27.61,32.31,17.04,2019-10-08
+P0213,Nestle Frozen Peas 500g,Nestle,CAT06,563.68,666.78,18.29,2021-11-24
+P0214,Nestle Frozen Paratha 5pc,Nestle,CAT06,237.02,300.3,26.7,2021-04-09
+P0215,ITC Frozen Nuggets 250g,ITC,CAT06,21.22,25.59,20.59,2025-01-11
+P0216,Nestle Frozen Fries 425g,Nestle,CAT06,365.73,454.05,24.15,2020-02-26
+P0217,ITC Ice Cream Tub 700ml,ITC,CAT06,30.39,37.85,24.55,2022-08-09
+P0218,ITC Frozen Momos 250g,ITC,CAT06,150.23,190.31,26.68,2021-02-22
+P0219,ITC Frozen Mixed Veg 500g,ITC,CAT06,459.07,580.82,26.52,2023-12-21
+P0220,ITC Frozen Peas 500g - Variant 2,ITC,CAT06,337.56,418.44,23.96,2021-07-25
+P0221,Nestle Frozen Paratha 5pc - Variant 2,Nestle,CAT06,19.98,23.96,19.9,2023-10-05
+P0222,Nestle Frozen Nuggets 250g - Variant 2,Nestle,CAT06,550.73,685.93,24.55,2021-10-30
+P0223,Nestle Frozen Fries 425g - Variant 2,Nestle,CAT06,565.31,677.3,19.81,2025-05-01
+P0224,Nestle Ice Cream Tub 700ml - Variant 2,Nestle,CAT06,460.79,582.16,26.34,2019-02-02
+P0225,Nestle Frozen Momos 250g - Variant 2,Nestle,CAT06,415.28,522.01,25.7,2020-06-05
+P0226,Nestle Frozen Mixed Veg 500g - Variant 2,Nestle,CAT06,529.33,630.86,19.18,2024-11-16
+P0227,ITC Frozen Peas 500g - Variant 3,ITC,CAT06,256.69,306.9,19.56,2024-10-19
+P0228,ITC Frozen Paratha 5pc - Variant 3,ITC,CAT06,483.63,602.22,24.52,2020-12-13
+P0229,ITC Frozen Nuggets 250g - Variant 3,ITC,CAT06,44.43,54.18,21.95,2019-01-23
+P0230,Nestle Frozen Fries 425g - Variant 3,Nestle,CAT06,377.26,474.74,25.84,2023-12-06
+P0231,ITC Ice Cream Tub 700ml - Variant 3,ITC,CAT06,583.99,732.38,25.41,2024-06-16
+P0232,Nestle Frozen Momos 250g - Variant 3,Nestle,CAT06,554.81,667.88,20.38,2018-04-10
+P0233,ITC Frozen Mixed Veg 500g - Variant 3,ITC,CAT06,27.52,34.67,25.99,2022-10-03
+P0234,Nestle Frozen Peas 500g - Variant 4,Nestle,CAT06,417.28,510.12,22.25,2024-10-28
+P0235,ITC Frozen Paratha 5pc - Variant 4,ITC,CAT06,158.83,187.55,18.08,2023-05-01
+P0236,Nestle Frozen Nuggets 250g - Variant 4,Nestle,CAT06,335.06,415.11,23.89,2018-06-23
+P0237,Nestle Frozen Fries 425g - Variant 4,Nestle,CAT06,94.87,114.88,21.09,2019-10-19
+P0238,ITC Ice Cream Tub 700ml - Variant 4,ITC,CAT06,81.94,99.92,21.94,2022-12-04
+P0239,Dabur Red Toothpaste 100g,Dabur Red,CAT07,65.16,80.8,24.0,2024-05-28
+P0240,Colgate Toothbrush,Colgate,CAT07,586.45,711.66,21.35,2023-08-06
+P0241,Nivea Shampoo 340ml,Nivea,CAT07,365.46,438.04,19.86,2018-06-20
+P0242,Nivea Body Lotion 200ml,Nivea,CAT07,361.81,435.98,20.5,2019-01-25
+P0243,Dabur Face Wash 100g,Dabur,CAT07,392.26,489.93,24.9,2023-03-03
+P0244,Patanjali Hair Oil 200ml,Patanjali,CAT07,464.63,574.75,23.7,2020-08-29
+P0245,Dettol Soap Bar 125g,Dettol,CAT07,460.44,567.91,23.34,2020-07-21
+P0246,Nivea Deodorant 150ml,Nivea,CAT07,251.1,306.82,22.19,2025-01-31
+P0247,Nivea Talcum Powder 100g,Nivea,CAT07,423.43,512.35,21.0,2021-02-19
+P0248,Whisper Sanitary Pads Pack,Whisper,CAT07,182.19,232.67,27.71,2022-11-12
+P0249,Colgate Toothpaste 100g - Variant 2,Colgate,CAT07,64.39,81.7,26.89,2024-11-01
+P0250,Oral-B Toothbrush - Variant 2,Oral-B,CAT07,330.12,399.15,20.91,2018-08-08
+P0251,Nivea Shampoo 340ml - Variant 2,Nivea,CAT07,384.33,488.02,26.98,2024-03-28
+P0252,Dove Body Lotion 200ml - Variant 2,Dove,CAT07,180.36,223.77,24.07,2018-11-28
+P0253,Himalaya Face Wash 100g - Variant 2,Himalaya,CAT07,211.98,254.86,20.23,2018-12-15
+P0254,Dabur Hair Oil 200ml - Variant 2,Dabur,CAT07,329.7,399.04,21.03,2020-12-14
+P0255,Lifebuoy Soap Bar 125g - Variant 2,Lifebuoy,CAT07,568.98,708.15,24.46,2018-05-15
+P0256,Nivea Deodorant 150ml - Variant 2,Nivea,CAT07,439.2,543.69,23.79,2019-04-06
+P0257,Nivea Talcum Powder 100g - Variant 2,Nivea,CAT07,228.84,276.8,20.96,2021-08-10
+P0258,Whisper Sanitary Pads Pack - Variant 2,Whisper,CAT07,126.56,150.04,18.55,2023-02-26
+P0259,Dabur Red Toothpaste 100g - Variant 3,Dabur Red,CAT07,333.88,433.04,29.7,2022-09-25
+P0260,Colgate Toothbrush - Variant 3,Colgate,CAT07,111.19,139.93,25.85,2018-12-23
+P0261,Nivea Shampoo 340ml - Variant 3,Nivea,CAT07,84.01,107.1,27.48,2023-01-22
+P0262,Nivea Body Lotion 200ml - Variant 3,Nivea,CAT07,56.37,70.71,25.44,2018-02-01
+P0263,Nivea Face Wash 100g - Variant 3,Nivea,CAT07,212.87,252.49,18.61,2024-10-23
+P0264,Patanjali Hair Oil 200ml - Variant 3,Patanjali,CAT07,457.08,565.23,23.66,2023-10-22
+P0265,Pears Soap Bar 125g - Variant 3,Pears,CAT07,128.22,165.26,28.89,2019-09-04
+P0266,Nivea Deodorant 150ml - Variant 3,Nivea,CAT07,279.77,331.11,18.35,2022-10-13
+P0267,Nivea Talcum Powder 100g - Variant 3,Nivea,CAT07,501.46,619.1,23.46,2019-12-20
+P0268,Whisper Sanitary Pads Pack - Variant 3,Whisper,CAT07,269.89,323.22,19.76,2023-06-27
+P0269,Dabur Red Toothpaste 100g - Variant 4,Dabur Red,CAT07,457.96,578.04,26.22,2021-04-24
+P0270,Colgate Toothbrush - Variant 4,Colgate,CAT07,59.42,70.92,19.35,2022-10-04
+P0271,Himalaya Shampoo 340ml - Variant 4,Himalaya,CAT07,145.0,187.38,29.23,2021-05-06
+P0272,Dove Body Lotion 200ml - Variant 4,Dove,CAT07,479.47,610.08,27.24,2024-10-04
+P0273,Nivea Face Wash 100g - Variant 4,Nivea,CAT07,577.19,682.99,18.33,2020-04-16
+P0274,Himalaya Hair Oil 200ml - Variant 4,Himalaya,CAT07,290.0,356.12,22.8,2020-07-13
+P0275,Dettol Soap Bar 125g - Variant 4,Dettol,CAT07,147.3,181.59,23.28,2023-08-06
+P0276,Nivea Deodorant 150ml - Variant 4,Nivea,CAT07,243.61,291.87,19.81,2018-04-26
+P0277,Nivea Talcum Powder 100g - Variant 4,Nivea,CAT07,524.72,630.4,20.14,2020-03-03
+P0278,Stayfree Sanitary Pads Pack - Variant 4,Stayfree,CAT07,370.5,452.79,22.21,2021-05-04
+P0279,Colgate Toothpaste 100g - Variant 5,Colgate,CAT07,597.53,728.21,21.87,2023-12-14
+P0280,Colgate Toothbrush - Variant 5,Colgate,CAT07,25.3,30.61,21.0,2019-07-15
+P0281,Himalaya Shampoo 340ml - Variant 5,Himalaya,CAT07,183.99,222.17,20.75,2022-11-05
+P0282,Nivea Body Lotion 200ml - Variant 5,Nivea,CAT07,79.38,99.05,24.78,2021-05-07
+P0283,Nivea Face Wash 100g - Variant 5,Nivea,CAT07,355.71,433.33,21.82,2018-08-10
+P0284,Dabur Hair Oil 200ml - Variant 5,Dabur,CAT07,553.31,693.85,25.4,2020-04-23
+P0285,Lifebuoy Soap Bar 125g - Variant 5,Lifebuoy,CAT07,327.39,422.01,28.9,2018-07-27
+P0286,Tide Detergent Powder 1kg,Tide,CAT08,171.06,200.7,17.33,2018-03-22
+P0287,Tide Fabric Softener 500ml,Tide,CAT08,352.11,431.58,22.57,2025-01-14
+P0288,Lizol Floor Cleaner 1L,Lizol,CAT08,180.66,216.27,19.71,2022-11-22
+P0289,Godrej Aer Air Freshener 250ml,Godrej Aer,CAT08,512.43,613.43,19.71,2019-04-24
+P0290,All Out Mosquito Repellent,All Out,CAT08,538.77,645.34,19.78,2020-02-07
+P0291,Vim Dishwash Bar 200g,Vim,CAT08,550.76,663.89,20.54,2025-01-15
+P0292,Vim Dishwash Liquid 500ml,Vim,CAT08,366.49,426.74,16.44,2018-11-13
+P0293,Ariel Detergent Powder 1kg - Variant 2,Ariel,CAT08,539.03,634.06,17.63,2023-10-02
+P0294,Surf Excel Fabric Softener 500ml - Variant 2,Surf Excel,CAT08,282.58,346.95,22.78,2022-09-01
+P0295,Lizol Floor Cleaner 1L - Variant 2,Lizol,CAT08,400.37,487.37,21.73,2024-03-19
+P0296,Godrej Aer Air Freshener 250ml - Variant 2,Godrej Aer,CAT08,450.83,546.81,21.29,2022-09-08
+P0297,Good Knight Mosquito Repellent - Variant 2,Good Knight,CAT08,275.92,327.35,18.64,2019-02-09
+P0298,Vim Dishwash Bar 200g - Variant 2,Vim,CAT08,419.95,517.55,23.24,2023-05-25
+P0299,Vim Dishwash Liquid 500ml - Variant 2,Vim,CAT08,230.35,269.07,16.81,2023-01-02
+P0300,Ariel Detergent Powder 1kg - Variant 3,Ariel,CAT08,72.42,85.18,17.62,2023-12-20
+P0301,Ariel Fabric Softener 500ml - Variant 3,Ariel,CAT08,62.36,75.8,21.56,2018-07-31
+P0302,Lizol Floor Cleaner 1L - Variant 3,Lizol,CAT08,301.61,369.2,22.41,2019-06-27
+P0303,Godrej Aer Air Freshener 250ml - Variant 3,Godrej Aer,CAT08,480.72,574.8,19.57,2018-03-31
+P0304,Good Knight Mosquito Repellent - Variant 3,Good Knight,CAT08,521.09,618.74,18.74,2024-05-23
+P0305,Vim Dishwash Bar 200g - Variant 3,Vim,CAT08,478.21,580.02,21.29,2024-04-14
+P0306,Vim Dishwash Liquid 500ml - Variant 3,Vim,CAT08,105.96,128.91,21.66,2022-04-12
+P0307,Surf Excel Detergent Powder 1kg - Variant 4,Surf Excel,CAT08,244.47,295.64,20.93,2018-01-06
+P0308,Surf Excel Fabric Softener 500ml - Variant 4,Surf Excel,CAT08,396.08,480.41,21.29,2019-11-21
+P0309,Lizol Floor Cleaner 1L - Variant 4,Lizol,CAT08,338.4,393.97,16.42,2019-02-21
+P0310,Odonil Air Freshener 250ml - Variant 4,Odonil,CAT08,275.9,322.33,16.83,2020-02-14
+P0311,Good Knight Mosquito Repellent - Variant 4,Good Knight,CAT08,348.52,430.53,23.53,2024-03-03
+P0312,Vim Dishwash Bar 200g - Variant 4,Vim,CAT08,260.58,321.61,23.42,2019-04-15
+P0313,Vim Dishwash Liquid 500ml - Variant 4,Vim,CAT08,384.68,465.0,20.88,2022-01-06
+P0314,Tide Detergent Powder 1kg - Variant 5,Tide,CAT08,271.63,329.76,21.4,2018-10-05
+P0315,Ariel Fabric Softener 500ml - Variant 5,Ariel,CAT08,90.17,106.0,17.56,2024-01-12
+P0316,Lizol Floor Cleaner 1L - Variant 5,Lizol,CAT08,547.11,652.7,19.3,2020-04-02
+P0317,Odonil Air Freshener 250ml - Variant 5,Odonil,CAT08,139.57,172.08,23.29,2018-02-24
+P0318,Lizol Toilet Cleaner 500ml,Lizol,CAT09,74.72,91.01,21.8,2025-01-02
+P0319,Lizol Glass Cleaner 500ml,Lizol,CAT09,382.13,461.42,20.75,2018-01-03
+P0320,Vim Scrub Pad Pack,Vim,CAT09,55.78,65.76,17.9,2018-12-28
+P0321,Lizol Mop,Lizol,CAT09,246.49,290.34,17.79,2021-01-15
+P0322,Lizol Bucket 16L,Lizol,CAT09,478.73,567.87,18.62,2019-07-13
+P0323,Lizol Broom,Lizol,CAT09,106.19,129.32,21.78,2023-04-16
+P0324,Dettol Disinfectant Spray 400ml,Dettol,CAT09,50.03,58.39,16.71,2019-10-12
+P0325,Dettol Toilet Cleaner 500ml - Variant 2,Dettol,CAT09,359.54,418.32,16.35,2025-05-28
+P0326,Lizol Glass Cleaner 500ml - Variant 2,Lizol,CAT09,286.35,339.5,18.56,2018-08-16
+P0327,Vim Scrub Pad Pack - Variant 2,Vim,CAT09,411.0,477.66,16.22,2023-02-28
+P0328,Lizol Mop - Variant 2,Lizol,CAT09,24.12,29.42,21.97,2019-03-22
+P0329,Lizol Bucket 16L - Variant 2,Lizol,CAT09,58.2,70.86,21.75,2020-09-30
+P0330,Lizol Broom - Variant 2,Lizol,CAT09,427.55,504.12,17.91,2024-04-12
+P0331,Dettol Disinfectant Spray 400ml - Variant 2,Dettol,CAT09,432.65,525.32,21.42,2019-04-17
+P0332,Lizol Toilet Cleaner 500ml - Variant 3,Lizol,CAT09,479.85,567.61,18.29,2025-06-02
+P0333,Lizol Glass Cleaner 500ml - Variant 3,Lizol,CAT09,51.84,59.83,15.42,2022-09-27
+P0334,Vim Scrub Pad Pack - Variant 3,Vim,CAT09,198.22,239.37,20.76,2019-08-30
+P0335,Lizol Mop - Variant 3,Lizol,CAT09,37.95,45.62,20.2,2019-12-03
+P0336,Lizol Bucket 16L - Variant 3,Lizol,CAT09,48.83,59.04,20.91,2020-06-30
+P0337,Lizol Broom - Variant 3,Lizol,CAT09,215.54,255.52,18.55,2023-05-27
+P0338,Dettol Disinfectant Spray 400ml - Variant 3,Dettol,CAT09,279.29,425.25,52.26,2020-05-18
+P0339,Dettol Toilet Cleaner 500ml - Variant 4,Dettol,CAT09,319.41,381.73,19.51,2024-01-08
+P0340,Lizol Glass Cleaner 500ml - Variant 4,Lizol,CAT09,212.77,251.32,18.12,2025-06-07
+P0341,Vim Scrub Pad Pack - Variant 4,Vim,CAT09,540.37,622.02,15.11,2018-09-20
+P0342,Lizol Mop - Variant 4,Lizol,CAT09,455.55,533.08,17.02,2019-03-30
+P0343,Lizol Bucket 16L - Variant 4,Lizol,CAT09,460.97,544.18,18.05,2024-08-24
+P0344,Tata Non-Stick Pan,Tata,CAT10,435.62,498.22,14.37,2025-05-06
+P0345,Fortune Pressure Cooker 5L,Fortune,CAT10,377.01,430.92,14.3,2024-08-08
+P0346,Tata Steel Container Set,Tata,CAT10,133.0,153.76,15.61,2019-06-23
+P0347,Fortune Plastic Storage Box,Fortune,CAT10,19.95,23.9,19.78,2024-11-18
+P0348,Tata Kitchen Knife Set,Tata,CAT10,540.82,623.3,15.25,2019-05-01
+P0349,Tata Chopping Board,Tata,CAT10,137.55,160.0,16.32,2021-05-25
+P0350,Tata Tiffin Box,Tata,CAT10,546.14,661.32,21.09,2018-02-18
+P0351,Tata Water Bottle 1L,Tata,CAT10,253.75,289.53,14.1,2025-02-18
+P0352,Fortune Non-Stick Pan - Variant 2,Fortune,CAT10,534.02,611.67,14.54,2022-02-09
+P0353,Tata Pressure Cooker 5L - Variant 2,Tata,CAT10,254.1,295.7,16.37,2023-06-27
+P0354,Fortune Steel Container Set - Variant 2,Fortune,CAT10,362.73,437.63,20.65,2021-05-26
+P0355,Tata Plastic Storage Box - Variant 2,Tata,CAT10,492.72,589.69,19.68,2021-12-27
+P0356,Fortune Kitchen Knife Set - Variant 2,Fortune,CAT10,485.84,586.41,20.7,2021-05-11
+P0357,Fortune Chopping Board - Variant 2,Fortune,CAT10,166.18,191.99,15.53,2021-03-12
+P0358,Fortune Tiffin Box - Variant 2,Fortune,CAT10,263.5,308.45,17.06,2020-08-09
+P0359,Tata Water Bottle 1L - Variant 2,Tata,CAT10,562.59,669.2,18.95,2021-02-14
+P0360,Fortune Non-Stick Pan - Variant 3,Fortune,CAT10,19.67,22.76,15.7,2021-09-05
+P0361,Tata Pressure Cooker 5L - Variant 3,Tata,CAT10,390.63,455.4,16.58,2019-01-13
+P0362,Tata Steel Container Set - Variant 3,Tata,CAT10,111.32,129.47,16.3,2020-03-27
+P0363,Tata Plastic Storage Box - Variant 3,Tata,CAT10,95.97,109.93,14.55,2020-02-25
+P0364,Tata Kitchen Knife Set - Variant 3,Tata,CAT10,489.21,596.64,21.96,2021-06-04
+P0365,Tata Chopping Board - Variant 3,Tata,CAT10,62.34,74.86,20.08,2023-12-16
+P0366,Tata Tiffin Box - Variant 3,Tata,CAT10,352.82,424.87,20.42,2018-09-28
+P0367,Fortune Water Bottle 1L - Variant 3,Fortune,CAT10,321.96,381.43,18.47,2019-03-31
+P0368,Tata Non-Stick Pan - Variant 4,Tata,CAT10,430.15,494.29,14.91,2019-12-08
+P0369,Tata Pressure Cooker 5L - Variant 4,Tata,CAT10,260.61,308.82,18.5,2023-11-27
+P0370,Dabur Baby Diapers Pack M,Dabur,CAT11,283.28,288.95,2.0,2025-03-22
+P0371,Himalaya Baby Diapers Pack L,Himalaya,CAT11,127.6,153.29,20.13,2021-11-21
+P0372,Dabur Baby Wipes 80pc,Dabur,CAT11,303.06,349.79,15.42,2019-10-27
+P0373,Nivea Baby Lotion 200ml,Nivea,CAT11,543.19,652.53,20.13,2020-12-29
+P0374,Dabur Baby Shampoo 200ml,Dabur,CAT11,513.54,619.02,20.54,2020-10-29
+P0375,Himalaya Baby Powder 100g,Himalaya,CAT11,409.57,475.63,16.13,2018-11-10
+P0376,Himalaya Baby Soap 75g,Himalaya,CAT11,222.61,271.09,21.78,2023-02-22
+P0377,Himalaya Baby Diapers Pack M - Variant 2,Himalaya,CAT11,366.66,426.61,16.35,2022-01-02
+P0378,Dabur Baby Diapers Pack L - Variant 2,Dabur,CAT11,323.6,378.13,16.85,2025-04-03
+P0379,Himalaya Baby Wipes 80pc - Variant 2,Himalaya,CAT11,348.35,421.4,20.97,2020-05-21
+P0380,Dabur Baby Lotion 200ml - Variant 2,Dabur,CAT11,336.6,396.08,17.67,2022-09-21
+P0381,Dabur Baby Shampoo 200ml - Variant 2,Dabur,CAT11,89.35,92.64,3.68,2023-03-03
+P0382,Himalaya Baby Powder 100g - Variant 2,Himalaya,CAT11,413.26,484.71,17.29,2023-10-01
+P0383,Dabur Baby Soap 75g - Variant 2,Dabur,CAT11,562.51,658.98,17.15,2024-10-27
+P0384,Dabur Baby Diapers Pack M - Variant 3,Dabur,CAT11,161.45,187.04,15.85,2022-10-11
+P0385,Himalaya Baby Diapers Pack L - Variant 3,Himalaya,CAT11,282.34,422.24,49.55,2023-11-23
+P0386,Dabur Baby Wipes 80pc - Variant 3,Dabur,CAT11,549.8,633.42,15.21,2020-11-14
+P0387,Nivea Baby Lotion 200ml - Variant 3,Nivea,CAT11,592.41,686.07,15.81,2018-10-08
+P0388,Dabur Baby Shampoo 200ml - Variant 3,Dabur,CAT11,503.84,584.76,16.06,2023-03-07
+P0389,Nivea Baby Powder 100g - Variant 3,Nivea,CAT11,100.32,116.15,15.78,2021-07-30
+P0390,Dabur Baby Soap 75g - Variant 3,Dabur,CAT11,468.19,557.52,19.08,2020-09-03
+P0391,Himalaya Baby Diapers Pack M - Variant 4,Himalaya,CAT11,274.44,331.44,20.77,2021-08-16
+P0392,Himalaya Baby Diapers Pack L - Variant 4,Himalaya,CAT11,27.67,33.74,21.93,2022-01-06
+P0393,Himalaya Baby Wipes 80pc - Variant 4,Himalaya,CAT11,533.27,617.9,15.87,2021-04-12
+P0394,Nivea Baby Lotion 200ml - Variant 4,Nivea,CAT11,49.68,61.46,23.71,2023-04-01
+P0395,Dabur Baby Shampoo 200ml - Variant 4,Dabur,CAT11,348.01,405.78,16.6,2021-11-14
+P0396,Himalaya Multivitamin Tablets,Himalaya,CAT12,272.68,319.36,17.12,2020-05-29
+P0397,Patanjali Honey 250g,Patanjali,CAT12,147.24,176.23,19.69,2023-07-21
+P0398,Himalaya Chyawanprash 500g,Himalaya,CAT12,139.36,162.58,16.66,2023-10-08
+P0399,Himalaya Health Drink Powder 500g,Himalaya,CAT12,476.03,564.43,18.57,2020-01-15
+P0400,Himalaya Hand Sanitizer 200ml,Himalaya,CAT12,130.93,156.25,19.34,2023-09-12
+P0401,Patanjali Pain Relief Spray,Patanjali,CAT12,39.99,48.84,22.12,2023-02-12
+P0402,Patanjali Digestive Tablets,Patanjali,CAT12,32.04,38.82,21.15,2018-04-27
+P0403,Dabur Immunity Booster Syrup,Dabur,CAT12,466.28,555.99,19.24,2018-01-30
+P0404,Dabur Multivitamin Tablets - Variant 2,Dabur,CAT12,539.94,637.02,17.98,2019-12-29
+P0405,Himalaya Honey 250g - Variant 2,Himalaya,CAT12,199.24,244.05,22.49,2023-05-03
+P0406,Dabur Chyawanprash 500g - Variant 2,Dabur,CAT12,120.22,140.19,16.61,2018-02-28
+P0407,Dabur Health Drink Powder 500g - Variant 2,Dabur,CAT12,472.14,593.72,25.75,2021-06-24
+P0408,Patanjali Hand Sanitizer 200ml - Variant 2,Patanjali,CAT12,192.52,224.81,16.77,2025-04-14
+P0409,Himalaya Pain Relief Spray - Variant 2,Himalaya,CAT12,346.78,412.74,19.02,2023-02-27
+P0410,Dabur Digestive Tablets - Variant 2,Dabur,CAT12,119.49,142.18,18.99,2021-07-07
+P0411,Dabur Immunity Booster Syrup - Variant 2,Dabur,CAT12,402.67,481.39,19.55,2018-12-09
+P0412,Patanjali Multivitamin Tablets - Variant 3,Patanjali,CAT12,444.87,541.36,21.69,2018-11-11
+P0413,Himalaya Honey 250g - Variant 3,Himalaya,CAT12,261.19,314.34,20.35,2022-04-30
+P0414,Dabur Chyawanprash 500g - Variant 3,Dabur,CAT12,88.66,107.87,21.67,2020-12-30
+P0415,Himalaya Health Drink Powder 500g - Variant 3,Himalaya,CAT12,243.25,295.11,21.32,2019-09-23
+P0416,Himalaya Hand Sanitizer 200ml - Variant 3,Himalaya,CAT12,206.38,240.78,16.67,2024-02-17
+P0417,Himalaya Pain Relief Spray - Variant 3,Himalaya,CAT12,90.31,106.28,17.68,2021-12-27
+P0418,Himalaya Digestive Tablets - Variant 3,Himalaya,CAT12,92.84,116.89,25.9,2023-03-19
+P0419,Patanjali Immunity Booster Syrup - Variant 3,Patanjali,CAT12,566.16,692.53,22.32,2019-10-03
+P0420,Dabur Multivitamin Tablets - Variant 4,Dabur,CAT12,286.46,345.53,20.62,2023-05-17
+P0421,Patanjali Honey 250g - Variant 4,Patanjali,CAT12,545.42,682.65,25.16,2018-07-01
+P0422,Dabur Chyawanprash 500g - Variant 4,Dabur,CAT12,92.42,113.69,23.01,2019-08-20
+P0423,Dabur Health Drink Powder 500g - Variant 4,Dabur,CAT12,204.54,251.11,22.77,2020-07-23
+P0424,Himalaya Hand Sanitizer 200ml - Variant 4,Himalaya,CAT12,110.72,136.35,23.15,2018-12-01
+P0425,Dabur Pain Relief Spray - Variant 4,Dabur,CAT12,471.41,578.66,22.75,2022-04-18
+P0426,Himalaya Digestive Tablets - Variant 4,Himalaya,CAT12,100.35,119.52,19.1,2019-07-12
+P0427,Himalaya Immunity Booster Syrup - Variant 4,Himalaya,CAT12,449.17,561.1,24.92,2024-03-07
+P0428,Fortune Apple 1kg,Fortune,CAT13,110.3,122.96,11.48,2024-01-17
+P0429,Fortune Banana 1dz,Fortune,CAT13,113.41,128.3,13.13,2020-04-22
+P0430,Fortune Mango 1kg,Fortune,CAT13,21.28,24.15,13.47,2020-01-22
+P0431,Fortune Papaya 1kg,Fortune,CAT13,24.82,28.24,13.79,2020-05-22
+P0432,Fortune Orange 1kg,Fortune,CAT13,108.11,124.11,14.8,2019-01-26
+P0433,Fortune Grapes 1kg,Fortune,CAT13,117.18,133.23,13.7,2024-09-24
+P0434,Fortune Pomegranate 1kg,Fortune,CAT13,108.32,122.18,12.8,2023-11-22
+P0435,Fortune Watermelon 1pc,Fortune,CAT13,103.21,117.31,13.66,2021-01-23
+P0436,Fortune Guava 1kg,Fortune,CAT13,99.94,115.57,15.64,2020-03-19
+P0437,Fortune Apple 1kg - Variant 2,Fortune,CAT13,70.88,108.21,52.66,2020-03-17
+P0438,Fortune Banana 1dz - Variant 2,Fortune,CAT13,55.01,62.6,13.79,2024-03-28
+P0439,Fortune Mango 1kg - Variant 2,Fortune,CAT13,98.21,112.36,14.41,2022-09-13
+P0440,Fortune Papaya 1kg - Variant 2,Fortune,CAT13,56.85,66.06,16.2,2018-09-25
+P0441,Fortune Orange 1kg - Variant 2,Fortune,CAT13,43.73,49.25,12.63,2022-02-09
+P0442,Fortune Grapes 1kg - Variant 2,Fortune,CAT13,62.32,70.28,12.78,2021-12-06
+P0443,Fortune Pomegranate 1kg - Variant 2,Fortune,CAT13,74.61,85.75,14.93,2019-09-22
+P0444,Fortune Watermelon 1pc - Variant 2,Fortune,CAT13,106.02,124.8,17.71,2018-06-14
+P0445,Fortune Guava 1kg - Variant 2,Fortune,CAT13,83.8,93.09,11.08,2025-03-26
+P0446,Fortune Apple 1kg - Variant 3,Fortune,CAT13,88.76,99.56,12.17,2025-01-06
+P0447,Fortune Banana 1dz - Variant 3,Fortune,CAT13,44.02,50.1,13.82,2020-08-05
+P0448,Fortune Mango 1kg - Variant 3,Fortune,CAT13,57.69,66.51,15.29,2019-02-26
+P0449,Fortune Potato 1kg,Fortune,CAT14,116.09,128.0,10.26,2024-11-14
+P0450,Fortune Onion 1kg,Fortune,CAT14,23.73,27.12,14.3,2021-05-06
+P0451,Fortune Tomato 1kg,Fortune,CAT14,88.44,98.12,10.94,2022-03-20
+P0452,Fortune Cauliflower 1pc,Fortune,CAT14,86.73,100.53,15.91,2022-02-26
+P0453,Fortune Capsicum 500g,Fortune,CAT14,36.04,39.03,8.3,2023-10-29
+P0454,Fortune Spinach 500g,Fortune,CAT14,116.4,129.87,11.57,2023-04-13
+P0455,Fortune Carrot 1kg,Fortune,CAT14,57.68,66.19,14.75,2020-03-13
+P0456,Fortune Cabbage 1pc,Fortune,CAT14,54.92,62.77,14.3,2019-02-22
+P0457,Fortune Cucumber 1kg,Fortune,CAT14,23.72,27.09,14.21,2020-04-06
+P0458,Fortune Green Peas 500g,Fortune,CAT14,97.1,105.05,8.19,2018-11-27
+P0459,Fortune Potato 1kg - Variant 2,Fortune,CAT14,20.57,22.97,11.65,2020-03-12
+P0460,Fortune Onion 1kg - Variant 2,Fortune,CAT14,117.68,129.32,9.89,2021-05-23
+P0461,Fortune Tomato 1kg - Variant 2,Fortune,CAT14,93.07,105.54,13.4,2022-01-26
+P0462,Fortune Cauliflower 1pc - Variant 2,Fortune,CAT14,29.87,32.47,8.71,2022-03-24
+P0463,Fortune Capsicum 500g - Variant 2,Fortune,CAT14,113.87,127.67,12.12,2018-10-22
+P0464,Fortune Spinach 500g - Variant 2,Fortune,CAT14,70.85,80.73,13.95,2023-10-20
+P0465,Fortune Carrot 1kg - Variant 2,Fortune,CAT14,106.91,120.09,12.33,2023-08-31
+P0466,Fortune Cabbage 1pc - Variant 2,Fortune,CAT14,66.51,72.29,8.69,2024-10-24
+P0467,Fortune Cucumber 1kg - Variant 2,Fortune,CAT14,23.04,26.2,13.7,2020-04-04
+P0468,Fortune Green Peas 500g - Variant 2,Fortune,CAT14,115.34,130.67,13.29,2022-03-22
+P0469,Fortune Potato 1kg - Variant 3,Fortune,CAT14,96.02,107.64,12.1,2018-12-03
+P0470,ITC Notebook 200pg,ITC,CAT15,142.04,181.67,27.9,2023-06-02
+P0471,ITC Ball Pen Pack,ITC,CAT15,247.88,302.14,21.89,2025-05-08
+P0472,ITC Pencil Box,ITC,CAT15,80.16,98.15,22.44,2021-08-01
+P0473,ITC A4 Paper Ream,ITC,CAT15,338.49,416.28,22.98,2023-06-05
+P0474,ITC Sketch Pens Set,ITC,CAT15,576.45,713.24,23.73,2024-05-17
+P0475,ITC Geometry Box,ITC,CAT15,265.63,339.02,27.63,2018-07-11
+P0476,ITC File Folder,ITC,CAT15,541.28,680.77,25.77,2020-12-12
+P0477,ITC Stapler,ITC,CAT15,152.54,197.59,29.53,2024-02-23
+P0478,ITC Notebook 200pg - Variant 2,ITC,CAT15,392.85,494.32,25.83,2018-04-16
+P0479,ITC Ball Pen Pack - Variant 2,ITC,CAT15,290.32,375.88,29.47,2023-04-07
+P0480,ITC Pencil Box - Variant 2,ITC,CAT15,477.99,605.28,26.63,2024-02-11
+P0481,ITC A4 Paper Ream - Variant 2,ITC,CAT15,361.5,468.25,29.53,2024-06-07
+P0482,ITC Sketch Pens Set - Variant 2,ITC,CAT15,259.17,325.41,25.56,2024-02-07
+P0483,ITC Geometry Box - Variant 2,ITC,CAT15,298.2,359.33,20.5,2024-04-24
+P0484,ITC File Folder - Variant 2,ITC,CAT15,126.63,160.01,26.36,2019-01-07
+P0485,ITC Stapler - Variant 2,ITC,CAT15,561.34,689.55,22.84,2024-04-15
+P0486,ITC Notebook 200pg - Variant 3,ITC,CAT15,44.2,56.67,28.21,2024-06-01
+P0487,ITC Ball Pen Pack - Variant 3,ITC,CAT15,425.05,512.14,20.49,2018-12-31
+P0488,ITC Pencil Box - Variant 3,ITC,CAT15,470.54,567.19,20.54,2018-11-04
+P0489,ITC A4 Paper Ream - Variant 3,ITC,CAT15,77.94,101.24,29.9,2023-10-14
+P0490,ITC Sketch Pens Set - Variant 3,ITC,CAT15,447.53,559.05,24.92,2024-03-13
+P0491,D-Mart Fashion Men's T-Shirt,D-Mart Fashion,CAT16,712.58,929.13,30.39,2022-01-06
+P0492,D-Mart Fashion Women's Kurti,D-Mart Fashion,CAT16,758.62,978.09,28.93,2021-04-04
+P0493,D-Mart Fashion Kids Wear Set,D-Mart Fashion,CAT16,1040.18,1318.01,26.71,2019-09-13
+P0494,D-Mart Fashion Casual Shirt,D-Mart Fashion,CAT16,704.57,907.63,28.82,2021-07-21
+P0495,D-Mart Fashion Denim Jeans,D-Mart Fashion,CAT16,1084.4,1126.69,3.9,2023-11-18
+P0496,D-Mart Fashion Nightwear Set,D-Mart Fashion,CAT16,1040.2,1290.99,24.11,2025-04-07
+P0497,D-Mart Fashion Innerwear Pack,D-Mart Fashion,CAT16,198.02,254.04,28.29,2018-07-19
+P0498,D-Mart Fashion Men's T-Shirt - Variant 2,D-Mart Fashion,CAT16,782.89,1025.9,31.04,2021-12-08
+P0499,D-Mart Fashion Women's Kurti - Variant 2,D-Mart Fashion,CAT16,353.97,456.73,29.03,2022-03-04
+P0500,D-Mart Fashion Kids Wear Set - Variant 2,D-Mart Fashion,CAT16,344.17,434.76,26.32,2019-08-14
+P0501,D-Mart Fashion Casual Shirt - Variant 2,D-Mart Fashion,CAT16,559.9,787.61,40.67,2018-06-17
+P0502,D-Mart Fashion Denim Jeans - Variant 2,D-Mart Fashion,CAT16,171.25,224.53,31.11,2023-08-03
+P0503,D-Mart Fashion Nightwear Set - Variant 2,D-Mart Fashion,CAT16,976.05,1216.74,24.66,2021-07-30
+P0504,D-Mart Fashion Innerwear Pack - Variant 2,D-Mart Fashion,CAT16,981.0,1234.69,25.86,2020-03-28
+P0505,D-Mart Fashion Men's T-Shirt - Variant 3,D-Mart Fashion,CAT16,194.15,248.9,28.2,2025-05-22
+P0506,D-Mart Fashion Women's Kurti - Variant 3,D-Mart Fashion,CAT16,198.07,255.05,28.77,2021-02-02
+P0507,D-Mart Fashion Kids Wear Set - Variant 3,D-Mart Fashion,CAT16,955.69,1167.95,22.21,2019-12-10
+P0508,D-Mart Fashion Casual Shirt - Variant 3,D-Mart Fashion,CAT16,962.97,1205.06,25.14,2024-03-29
+P0509,D-Mart Fashion Denim Jeans - Variant 3,D-Mart Fashion,CAT16,283.74,366.82,29.28,2023-07-28
+P0510,D-Mart Fashion Nightwear Set - Variant 3,D-Mart Fashion,CAT16,757.14,961.79,27.03,2019-05-06
+P0511,D-Mart Fashion Innerwear Pack - Variant 3,D-Mart Fashion,CAT16,244.81,307.6,25.65,2025-02-17
+P0512,D-Mart Fashion Men's T-Shirt - Variant 4,D-Mart Fashion,CAT16,312.49,387.86,24.12,2024-12-29
+P0513,D-Mart Fashion Women's Kurti - Variant 4,D-Mart Fashion,CAT16,464.47,579.24,24.71,2023-05-09
+P0514,D-Mart Fashion Kids Wear Set - Variant 4,D-Mart Fashion,CAT16,453.58,578.99,27.65,2021-02-02
+P0515,D-Mart Fashion Casual Shirt - Variant 4,D-Mart Fashion,CAT16,879.38,1128.07,28.28,2018-07-11
+P0516,D-Mart Fashion Denim Jeans - Variant 4,D-Mart Fashion,CAT16,507.51,644.89,27.07,2020-03-29
+P0517,D-Mart Footwear Men's Slippers,D-Mart Footwear,CAT17,336.62,435.28,29.31,2022-04-27
+P0518,D-Mart Footwear Women's Sandals,D-Mart Footwear,CAT17,1166.15,1406.84,20.64,2023-11-02
+P0519,D-Mart Footwear Kids Shoes,D-Mart Footwear,CAT17,1084.06,1350.52,24.58,2019-10-28
+P0520,D-Mart Footwear Sports Shoes,D-Mart Footwear,CAT17,347.16,431.38,24.26,2020-03-13
+P0521,D-Mart Footwear Formal Shoes,D-Mart Footwear,CAT17,302.26,379.43,25.53,2021-08-14
+P0522,D-Mart Footwear Flip Flops,D-Mart Footwear,CAT17,1033.78,1276.72,23.5,2018-07-16
+P0523,D-Mart Footwear Men's Slippers - Variant 2,D-Mart Footwear,CAT17,264.39,339.66,28.47,2018-07-13
+P0524,D-Mart Footwear Women's Sandals - Variant 2,D-Mart Footwear,CAT17,541.0,656.07,21.27,2025-02-04
+P0525,D-Mart Footwear Kids Shoes - Variant 2,D-Mart Footwear,CAT17,785.88,963.8,22.64,2024-09-09
+P0526,D-Mart Footwear Sports Shoes - Variant 2,D-Mart Footwear,CAT17,596.67,719.46,20.58,2024-10-27
+P0527,D-Mart Footwear Formal Shoes - Variant 2,D-Mart Footwear,CAT17,1007.88,1271.34,26.14,2018-08-28
+P0528,D-Mart Footwear Flip Flops - Variant 2,D-Mart Footwear,CAT17,840.58,1029.46,22.47,2021-02-19
+P0529,D-Mart Footwear Men's Slippers - Variant 3,D-Mart Footwear,CAT17,506.05,615.2,21.57,2018-12-12
+P0530,D-Mart Footwear Women's Sandals - Variant 3,D-Mart Footwear,CAT17,186.33,238.06,27.76,2018-10-01
+P0531,D-Mart Footwear Kids Shoes - Variant 3,D-Mart Footwear,CAT17,972.23,1257.0,29.29,2023-04-30
+P0532,D-Mart Footwear Sports Shoes - Variant 3,D-Mart Footwear,CAT17,985.14,1193.69,21.17,2020-01-16
+P0533,D-Mart Footwear Formal Shoes - Variant 3,D-Mart Footwear,CAT17,1066.5,1285.56,20.54,2022-08-16
+P0534,D-Mart Footwear Flip Flops - Variant 3,D-Mart Footwear,CAT17,509.96,788.35,54.59,2020-06-11
+P0535,D-Mart Footwear Men's Slippers - Variant 4,D-Mart Footwear,CAT17,843.32,1023.12,21.32,2018-05-16
+P0536,D-Mart Footwear Women's Sandals - Variant 4,D-Mart Footwear,CAT17,553.28,677.16,22.39,2019-04-06
+P0537,D-Mart Footwear Kids Shoes - Variant 4,D-Mart Footwear,CAT17,747.27,931.4,24.64,2019-02-03
+P0538,D-Mart Home Wall Clock,D-Mart Home,CAT18,1044.19,1288.01,23.35,2024-07-10
+P0539,D-Mart Home Photo Frame,D-Mart Home,CAT18,562.47,748.54,33.08,2023-12-20
+P0540,D-Mart Home Curtain Set,D-Mart Home,CAT18,683.66,867.91,26.95,2018-01-30
+P0541,D-Mart Home Cushion Cover Set,D-Mart Home,CAT18,642.57,787.98,22.63,2021-12-26
+P0542,D-Mart Home Table Mat Set,D-Mart Home,CAT18,645.18,850.09,31.76,2018-06-10
+P0543,D-Mart Home LED String Lights,D-Mart Home,CAT18,713.01,937.75,31.52,2019-04-09
+P0544,D-Mart Home Bedsheet Set,D-Mart Home,CAT18,418.31,538.99,28.85,2022-12-11
+P0545,D-Mart Home Wall Clock - Variant 2,D-Mart Home,CAT18,832.66,1114.6,33.86,2018-06-28
+P0546,D-Mart Home Photo Frame - Variant 2,D-Mart Home,CAT18,179.44,228.18,27.16,2022-08-20
+P0547,D-Mart Home Curtain Set - Variant 2,D-Mart Home,CAT18,200.39,246.12,22.82,2021-11-12
+P0548,D-Mart Home Cushion Cover Set - Variant 2,D-Mart Home,CAT18,334.29,415.02,24.15,2024-05-20
+P0549,D-Mart Home Table Mat Set - Variant 2,D-Mart Home,CAT18,661.62,811.48,22.65,2023-07-24
+P0550,D-Mart Home LED String Lights - Variant 2,D-Mart Home,CAT18,466.49,569.58,22.1,2019-08-27
+P0551,D-Mart Home Bedsheet Set - Variant 2,D-Mart Home,CAT18,569.99,716.71,25.74,2019-04-06
+P0552,D-Mart Home Wall Clock - Variant 3,D-Mart Home,CAT18,267.72,345.09,28.9,2023-12-02
+P0553,D-Mart Home Photo Frame - Variant 3,D-Mart Home,CAT18,546.74,711.36,30.11,2019-09-26
+P0554,D-Mart Home Curtain Set - Variant 3,D-Mart Home,CAT18,1158.8,1528.23,31.88,2018-11-20
+P0555,D-Mart Home Cushion Cover Set - Variant 3,D-Mart Home,CAT18,210.0,267.31,27.29,2022-12-02
+P0556,D-Mart Home Table Mat Set - Variant 3,D-Mart Home,CAT18,1195.29,1556.75,30.24,2019-10-29
+P0557,D-Mart Home LED String Lights - Variant 3,D-Mart Home,CAT18,1108.66,1402.23,26.48,2025-03-29
+P0558,D-Mart Home Bedsheet Set - Variant 3,D-Mart Home,CAT18,964.08,1207.61,25.26,2019-04-24
+P0559,Tata LED Bulb 9W,Tata,CAT19,2320.02,3003.96,29.48,2022-03-03
+P0560,Tata Extension Cord,Tata,CAT19,644.61,812.92,26.11,2021-10-25
+P0561,Tata USB Cable,Tata,CAT19,1732.54,2329.57,34.46,2022-05-22
+P0562,Tata Power Bank 10000mAh,Tata,CAT19,728.99,1070.3,46.82,2022-09-16
+P0563,Tata Electric Kettle,Tata,CAT19,312.07,420.08,34.61,2021-03-14
+P0564,Tata Hair Dryer,Tata,CAT19,2218.41,2781.89,25.4,2020-08-30
+P0565,Tata Table Fan,Tata,CAT19,2224.72,2834.74,27.42,2018-07-20
+P0566,Tata Earphones,Tata,CAT19,691.32,937.36,35.59,2020-05-29
+P0567,Tata Mobile Charger,Tata,CAT19,971.1,1432.28,47.49,2023-04-23
+P0568,Tata Torch Light,Tata,CAT19,1948.57,2622.0,34.56,2021-11-25
+P0569,Tata LED Bulb 9W - Variant 2,Tata,CAT19,398.58,525.37,31.81,2024-07-13
+P0570,Tata Extension Cord - Variant 2,Tata,CAT19,1283.09,1630.55,27.08,2020-05-30
+P0571,Tata USB Cable - Variant 2,Tata,CAT19,464.84,619.45,33.26,2024-04-26
+P0572,Tata Power Bank 10000mAh - Variant 2,Tata,CAT19,1402.31,1846.7,31.69,2023-01-31
+P0573,Tata Electric Kettle - Variant 2,Tata,CAT19,2127.57,2740.95,28.83,2023-12-10
+P0574,Tata Hair Dryer - Variant 2,Tata,CAT19,1791.51,2385.04,33.13,2023-03-19
+P0575,Tata Table Fan - Variant 2,Tata,CAT19,1539.95,2042.13,32.61,2022-07-25
+P0576,Tata Earphones - Variant 2,Tata,CAT19,828.66,1106.26,33.5,2020-09-06
+P0577,Tata Mobile Charger - Variant 2,Tata,CAT19,1516.01,2320.25,53.05,2020-05-20
+P0578,Tata Torch Light - Variant 2,Tata,CAT19,1128.5,1464.57,29.78,2025-03-28
+P0579,Tata LED Bulb 9W - Variant 3,Tata,CAT19,2236.7,2805.72,25.44,2025-01-02
+P0580,Tata Extension Cord - Variant 3,Tata,CAT19,326.59,408.73,25.15,2024-01-17
+P0581,Tata USB Cable - Variant 3,Tata,CAT19,2035.26,2548.96,25.24,2020-02-28
+P0582,Tata Power Bank 10000mAh - Variant 3,Tata,CAT19,1561.22,2019.44,29.35,2024-04-02
+P0583,Tata Electric Kettle - Variant 3,Tata,CAT19,1841.26,2285.74,24.14,2023-08-04
+P0584,Tata Hair Dryer - Variant 3,Tata,CAT19,1542.12,2019.87,30.98,2024-07-09
+P0585,Himalaya Dog Food 1kg,Himalaya,CAT20,205.41,243.6,18.59,2024-08-24
+P0586,Himalaya Cat Food 1kg,Himalaya,CAT20,24.44,28.85,18.04,2019-12-11
+P0587,Himalaya Pet Shampoo 200ml,Himalaya,CAT20,279.15,347.85,24.61,2020-09-14
+P0588,Himalaya Pet Toy,Himalaya,CAT20,192.84,246.28,27.71,2022-10-19
+P0589,Himalaya Pet Leash,Himalaya,CAT20,332.94,417.01,25.25,2021-09-11
+P0590,Himalaya Pet Bowl,Himalaya,CAT20,382.51,473.47,23.78,2018-02-18
+P0591,Himalaya Dog Food 1kg - Variant 2,Himalaya,CAT20,161.92,196.57,21.4,2023-09-23
+P0592,Himalaya Cat Food 1kg - Variant 2,Himalaya,CAT20,220.29,273.23,24.03,2020-11-13
+P0593,Himalaya Pet Shampoo 200ml - Variant 2,Himalaya,CAT20,392.2,463.5,18.18,2021-05-06
+P0594,Himalaya Pet Toy - Variant 2,Himalaya,CAT20,578.51,689.87,19.25,2021-01-03
+P0595,Himalaya Pet Leash - Variant 2,Himalaya,CAT20,303.48,387.45,27.67,2022-11-29
+P0596,Himalaya Pet Bowl - Variant 2,Himalaya,CAT20,231.35,281.99,21.89,2024-07-01
+P0597,Himalaya Dog Food 1kg - Variant 3,Himalaya,CAT20,400.36,503.29,25.71,2019-05-07
+P0598,Himalaya Cat Food 1kg - Variant 3,Himalaya,CAT20,192.29,230.46,19.85,2025-03-05
+P0599,Himalaya Pet Shampoo 200ml - Variant 3,Himalaya,CAT20,49.76,62.56,25.73,2020-04-06
+P0600,Himalaya Pet Toy - Variant 3,Himalaya,CAT20,299.18,376.52,25.85,2024-06-16

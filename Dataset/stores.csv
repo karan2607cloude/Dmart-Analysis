@@ -1,0 +1,13 @@
+Store_ID,Store_Name,Store_Location,Opening_Date,Store_Size_SqFt,Manager_Name
+ST01,D-Mart Vaishali Nagar,Vaishali Nagar,2015-08-20,40000,Rajesh Mathur
+ST02,D-Mart Mansarovar,Mansarovar,2015-03-12,42000,Sunita Choudhary
+ST03,D-Mart Malviya Nagar,Malviya Nagar,2017-06-18,33000,Vikram Bansal
+ST04,D-Mart Jagatpura,Jagatpura,2022-11-28,14000,Anita Kothari
+ST05,D-Mart Vidyadhar Nagar,Vidyadhar Nagar,2021-07-15,17000,Suresh Singh
+ST06,D-Mart Jhotwara,Jhotwara,2020-01-22,21000,Pooja Saxena
+ST07,D-Mart Tonk Road,Tonk Road,2018-09-14,27000,Manoj Kothari
+ST08,D-Mart Sikar Road,Sikar Road,2020-10-09,19000,Kavita Jain
+ST09,D-Mart Ajmer Road,Ajmer Road,2019-04-30,24000,Ashok Sharma
+ST10,D-Mart Raja Park,Raja Park,2018-02-27,28000,Deepa Gupta
+ST11,D-Mart Pratap Nagar,Pratap Nagar,2022-03-03,15000,Not Assigned
+ST12,D-Mart C-Scheme,C-Scheme,2016-11-05,35000,Neha Kothari
